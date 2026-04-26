@@ -43,4 +43,4 @@ Cheia API este stocată în variabile de mediu și nu este inclusă în codul su
 Proiect realizat în scop educațional pentru automatizarea procesului de studiu folosind inteligență artificială.
 =======
 Proiect realizat în scop educațional pentru automatizarea procesului de studiu folosind inteligență artificială.
->>>>>>> 8477cdc (Versiunea 1.0)
+

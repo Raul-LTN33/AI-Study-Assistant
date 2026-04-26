@@ -40,7 +40,6 @@ Cheia API este stocată în variabile de mediu și nu este inclusă în codul su
 
 ## Autor
 
-<<<<<<< HEAD
 Proiect realizat în scop educațional pentru automatizarea procesului de studiu folosind inteligență artificială.
 =======
 Proiect realizat în scop educațional pentru automatizarea procesului de studiu folosind inteligență artificială.

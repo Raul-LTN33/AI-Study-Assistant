@@ -23,7 +23,7 @@ Scopul acestui proiect este de a automatiza procesul de studiu prin generarea de
 ## Rulare proiect
 
 1. Clonează repository-ul
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/Raul-LTN33/AI-Study-Assistant
 
 2. Instalează dependințele
    pip install -r requirements.txt
